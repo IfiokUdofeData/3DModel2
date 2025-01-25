@@ -91,7 +91,7 @@ bool Tutorial18::Init()
 
     pMesh = new BasicMesh();
 
-    const char* filePath = "C:/Users/HP/Desktop/ifiok/C++/projects/3DModel 2/external1/Walking.dae";
+    const char* filePath = "external1/Walking.dae";
 
     const char* filePath1 = "Content/boblampclean.md5mesh";
 
